@@ -19,6 +19,9 @@ to install dependancies
 ```
 sudo apt install npm 
 ```
+```
+npm install express
+```
 
 to start your application 
 ```
