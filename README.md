@@ -15,8 +15,15 @@ This is a simple Node.js application deployed on AWS EC2.
 6. Access the app on the public IP of the EC2 instance.
 
 
-To start your app, use the following command:
+to install dependancies 
+```
+npm install
+```
+
+to start your application 
 ```
 node index.js
-```bash
+```
+
+
 
