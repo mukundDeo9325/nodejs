@@ -17,7 +17,7 @@ This is a simple Node.js application deployed on AWS EC2.
 
 to install dependancies 
 ```
-npm install
+sudo apt install npm 
 ```
 
 to start your application 
