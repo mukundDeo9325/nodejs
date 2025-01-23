@@ -14,6 +14,9 @@ This is a simple Node.js application deployed on AWS EC2.
 5. Start the app using `node index.js`.
 6. Access the app on the public IP of the EC2 instance.
 
-## License
 
-This project is licensed under the MIT License.
+To start your app, use the following command:
+```
+node index.js
+```bash
+
